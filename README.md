@@ -1,6 +1,6 @@
 # Hello, I'm Logan! (He/Him) :wave:
 
-I am a Computer Science and Applied Mathematics BS major at Seattle Pacific University (although I disagree with their discriminatory hiring policies) who is passionate about creating innovative code to solve problems and learning new languages, coding stlyes, frameworks, etc. along the way. Some languages I am currently working with include C++, Go, Prolog, Java, and C#. Feel free to use the following link to view my LinkedIn and learn a bit more about me, and view a pdf of my resume in the corresponding repository. If you wish to get in contact with me you can use the email in my bio. I hope you have a great day!
+I'm a student at Seattle Pacific University (although I disagree with their discriminatory hiring policies) double majoring in Computer Science and Applied Mathematics. I have a passion for problem solving and love learning new things no matter the subject matter. I am currently working on my senior project, Envision, and am looking forward to returning to F5 Inc. after graduation as a Software Engineer I. Feel free to use the following link to view my LinkedIn and learn a bit more about me, and view a pdf of my resume in the corresponding repository. If you wish to get in contact with me you can use the email in my bio. I hope you have a great day!
 
 LinkedIn: https://www.linkedin.com/in/logan-munoz/
 
