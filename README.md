@@ -1,6 +1,8 @@
 # Hello, I'm Logan Munoz! (He/Him) :wave:
 
-I'm a student at Seattle Pacific University (although I disagree with their discriminatory hiring policies) double majoring in Computer Science and Applied Mathematics, graduating this June 2023. I have a passion for problem solving and love learning new things no matter the subject matter. I am currently working on my senior project, Envision, and am looking forward to returning to F5 Inc. after graduation as a Software Engineer I. 
+I'm a undergraduate student at Seattle Pacific University (although I disagree with their discriminatory hiring policies) double majoring in Computer Science and Applied Mathematics, and graduating this June 2023. 
+
+I have a passion for problem solving and love learning new things no matter the subject matter. I am currently working on my senior project, Envision, and am looking forward to returning to F5 Inc. after graduation as a Software Engineer I. 
 
 Feel free to check out the repositories below to see some projects I have worked on, or use the following link to view my LinkedIn and learn a bit more about me. If you wish to get in contact with me you can use the email in my bio. I hope you have a great day!
 
@@ -8,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/logan-munoz/
 
 ## Projects
 
-The following are short descriptions of projects I have worked on. If you would like to see an in-depth description of any projects, complete with a detailed explanation and even more images, please check out the pinned repositories below, or click the links in any given dropdown. Enjoy!
+The following are short descriptions of projects I have worked on. If you would like to see an in-depth description of any projects, complete with a detailed explanation and the codebase, please check out the pinned repositories below, or click the links in any given dropdown. Enjoy!
 
 <details><summary>
   <h3>F5 Internship</h3>
@@ -31,7 +33,7 @@ The following are short descriptions of projects I have worked on. If you would 
   
   
   <h3>- Brief Description -</h3>
-  I interned in the Greenhouse department of the Office of the CTO, working on Project NSure. NSure is a web application designed to reduce NGINX configuration complexity to make it more marketable to small or medium sized businesses. I had the honor of working on a global team with members from the US, India, and Germany, and doing many presentations for this team and the company at large about our progress throughout the internship.
+  I interned at F5 Inc. in the Greenhouse department of the Office of the CTO, working on Project NSure. NSure is a web application designed to reduce NGINX configuration complexity to make it more marketable to small or medium sized businesses. I had the honor of working on a global team with members from the US, India, and Germany, and doing many presentations for this team and the company at large about our progress throughout the internship.
   <br/>
   <br/>
   
@@ -48,7 +50,7 @@ The following are short descriptions of projects I have worked on. If you would 
   </summary>
 <h2>Course Flowchart - Team</h2>
   <h3>- Code -</h3>
-  <a href="https://github.com/LoganMunoz16/flowchart-alison-logan">Repository pinned below</a>
+  <a href="https://github.com/csc3430-winter2022/flowchart-alison-logan">Repository pinned below</a>
   
   <h3>- Timeline -</h3>
   February 2022 - March 2022
@@ -91,7 +93,7 @@ The following are short descriptions of projects I have worked on. If you would 
   <h3>- Technologies -</h3>
   <ul>
     <li>Golang</li>
-    <li>Basic Lexer and Parser concepts</li>
+    <li>Basic Lexer and Parser Concepts</li>
   </ul>
   
   
@@ -147,7 +149,8 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   The following is an example of what the huffman encoding will look like. The "CR" character is representative of a newline character.
      <br/>
   <br/>
-  ```
+  
+```
 {key:   , code: 11}
 {key:  a, code: 010}
 {key:  e, code: 0010}
@@ -222,6 +225,7 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   <ul>
     <li>Java</li>
     <li>Basic GUI Principles</li>
+    <li>Basic Project Management Principles</li>
   </ul>
   
   
@@ -229,7 +233,7 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   This project was created with a team of 5 to enter a Microsoft <a href="https://en.wikipedia.org/wiki/Hunt_the_Wumpus">Hunt the Wumpus</a> competition. We were tasked with making our own rendition of the game Hunt the Wumpus, and then having it judged by a panel of industry professionals on Microsoft's campus. I worked primarily with creating the GUI, although I did assist with debugging some of the other portions of our code. 
      <br/>
   <br/>  
-  This was the first major coding project that I took part of, and was a primary reason why I wanted to continue to learn about Computer Science in college. The following picture is of our Kanban Board after having completed our project. This was also a fantastic introduction to that style of development, which was very helpful in organizing our tasks.
+  This was the first major coding project that I took part in, and was a primary reason why I wanted to continue to learn about Computer Science in college. The following picture is of our Kanban Board after having completed our project. This was also a fantastic introduction to that style of development, which was very helpful in organizing our tasks.
    <br/>
   <br/>  
 <p align="center">
