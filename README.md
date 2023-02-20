@@ -48,7 +48,7 @@ The following are short descriptions of projects I have worked on. If you would 
 <details><summary>
   <h3>Course Flowchart</h3>
   </summary>
-<h2>Course Flowchart - Team</h2>
+  <h2>Course Flowchart - <a href="https://github.com/Alison003">Team</a></h2>
   <h3>- Code -</h3>
   <a href="https://github.com/csc3430-winter2022/flowchart-alison-logan">Repository pinned below</a>
   
@@ -65,7 +65,7 @@ The following are short descriptions of projects I have worked on. If you would 
   
   
   <h3>- Brief Description -</h3>
-  This project was completed by myself and my partner Alison Langer as the final for Algorithms Design and Analysis. Given a text file containing a course list, our program will use C++ Boost's graph libraries to create a possible course flow based on credit limits and a starting quarter. I designed the primary algorithm to create this course flow, and Alison handled all the visualizations using libraries such as graphviz.
+  This project was completed by myself and my partner <a href="https://github.com/Alison003">Alison Langer</a> as the final for Algorithms Design and Analysis. Given a text file containing a course list, our program will use C++ Boost's graph libraries to create a possible course flow based on credit limits and a starting quarter. I designed the primary algorithm to create this course flow, and Alison handled all the visualizations using libraries such as graphviz.
     <br/>
   <br/>
   Below is a picture of an example course flow that can be created with our program. The linked repository has a very in-depth description of the project, along with some more images and an animation of the visuals being created.
