@@ -43,8 +43,6 @@ The following are short descriptions of projects I have worked on. If you would 
 </p>
 </details>
 
---
-
 <details><summary>
   <h3>Course Flowchart</h3>
   </summary>
@@ -78,8 +76,6 @@ The following are short descriptions of projects I have worked on. If you would 
   <img src="https://user-images.githubusercontent.com/59589283/159179053-a2b3c372-59cf-4b74-a7a1-80bab38556e4.jpg" />
 </p>
 </details>
-
---
 
 <details><summary>
   <h3>Full Parser</h3>
@@ -125,8 +121,6 @@ LETTER     --> a | b | c | d | e | f | g | ... | z
 DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 ```
 </details>
-
---
 
 <details><summary>
   <h3>Huffman Tree Encoding</h3>
@@ -180,8 +174,6 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 
 </details>
 
---
-
 <details><summary>
   <h3>Library Website</h3>
   </summary>
@@ -214,8 +206,6 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   <img src="https://user-images.githubusercontent.com/59589283/141358313-f4656be5-7c8e-48cf-a85a-4854fa141420.png" />
 </p>
 </details>
-
---
 
 <details><summary>
   <h3>Hunt the Wumpus</h3>
