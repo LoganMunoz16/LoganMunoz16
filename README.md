@@ -2,7 +2,7 @@
 
 I'm a undergraduate student at Seattle Pacific University (although I disagree with their discriminatory hiring policies) double majoring in Computer Science and Applied Mathematics, and graduating this June 2023. 
 
-I have a passion for problem solving and love learning new things no matter the subject matter. I am currently working on my senior project, Envision, and am looking forward to returning to F5 Inc. after graduation as a Software Engineer I. 
+I have a passion for problem solving and love learning new things no matter the subject matter. I am currently working on my senior project, Envision (<b><i>A description and codebase will be made public by May 2023 upon completion of this project's MVP</i></b>), and am looking forward to returning to F5 Inc. after graduation as a Software Engineer I. 
 
 Feel free to check out the repositories below to see some projects I have worked on, or use the following link to view my LinkedIn and learn a bit more about me. If you wish to get in contact with me you can use the email in my bio. I hope you have a great day!
 
@@ -13,6 +13,42 @@ LinkedIn: https://www.linkedin.com/in/logan-munoz/
 The following are short descriptions of projects I have worked on. If you would like to see an in-depth description of any projects, complete with a detailed explanation and the codebase, please check out the pinned repositories below, or click the links in any given dropdown. Enjoy!
 
 <details><summary>
+  <h3>Envision</h3>
+  </summary>
+  <h2>Envision - Team</h2>
+  <h3>- Code -</h3>
+  This project is still in development. The codebase will be linked upon completion of the MVP by May 2023.
+  
+  <h3>- Timeline -</h3>
+  September 2022 - May 2023
+  
+  
+  <h3>- Technologies -</h3>
+  <ul>
+    <li>Javascript</li>
+    <li>React</li>
+    <li>API Fundamentals</li>
+    <li>Image Database Storage</li>
+    <li>Raspberry Pi</li>
+  </ul>
+  
+  
+  <h3>- Brief Description -</h3>
+  Professors at our school often struggle to get information regarding internship opportunities or campus events to students over the usual mediums of Teams and email. Envision seeks to find a solution to this by creating a web application allowing professors to drag and drop images that will be displayed cyclically on monitors around the building.
+    <br/>
+  <br/>
+  I am working on a team of 5 for this project, and am handing most of the backend API operations. This has been a tremendous learning experience to discover how to work with a team in a series of sprints to facilitate the development of a full-scale project.
+    <br/>
+  <br/>
+  Since the project is still in its early phases of development, the codebase is remaining private for the time being. However, this will be made public by May 2023 when the MVP is complete. As a sneak-peek, below is a screenshot of our initial login screen, without much UI design.
+    <br/>
+  <br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59589283/220208222-36ac45e1-2d69-4119-ae21-0be104a8c7b4.png" />
+</p>
+</details>
+
+<details><summary>
   <h3>F5 Internship</h3>
   </summary>
   <h2>F5 Internship - Team</h2>
@@ -20,7 +56,7 @@ The following are short descriptions of projects I have worked on. If you would 
   <a href="https://github.com/LoganMunoz16/F5-Internship">Repository pinned below</a>
   
   <h3>- Timeline -</h3>
-  June 2023 - September 2023
+  June 2022 - September 2022
   
   
   <h3>- Technologies -</h3>
