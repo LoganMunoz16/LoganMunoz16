@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/logan-munoz/
 The following are short descriptions of projects I have worked on. If you would like to see an in-depth description of any projects, complete with a detailed explanation and even more images, please check out the pinned repositories below, or click the links in any given dropdown. Enjoy!
 
 <details><summary>
-  F5 Internship 
+  <h3>F5 Internship</h3>
   </summary>
   <h2>F5 Internship - Team</h2>
   <h3>- Code -</h3>
@@ -32,9 +32,12 @@ The following are short descriptions of projects I have worked on. If you would 
   
   <h3>- Brief Description -</h3>
   I interned in the Greenhouse department of the Office of the CTO, working on Project NSure. NSure is a web application designed to reduce NGINX configuration complexity to make it more marketable to small or medium sized businesses. I had the honor of working on a global team with members from the US, India, and Germany, and doing many presentations for this team and the company at large about our progress throughout the internship.
-  
+  <br/>
+  <br/>
   
   Below is a calendar created by my intern cohort detailing our activities throughout the internship, created in preparation for our final demo of Project NSure.
+     <br/>
+  <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59589283/218954868-3651fa1e-6de9-4277-afc2-910d65ea7438.png" />
 </p>
@@ -43,7 +46,7 @@ The following are short descriptions of projects I have worked on. If you would 
 --
 
 <details><summary>
-  Course Flowchart 
+  <h3>Course Flowchart</h3>
   </summary>
 <h2>Course Flowchart - Team</h2>
   <h3>- Code -</h3>
@@ -63,13 +66,14 @@ The following are short descriptions of projects I have worked on. If you would 
   
   <h3>- Brief Description -</h3>
   This project was completed by myself and my partner Alison Langer as the final for Algorithms Design and Analysis. Given a text file containing a course list, our program will use C++ Boost's graph libraries to create a possible course flow based on credit limits and a starting quarter. I designed the primary algorithm to create this course flow, and Alison handled all the visualizations using libraries such as graphviz.
-  
-  
+    <br/>
+  <br/>
   Below is a picture of an example course flow that can be created with our program. The linked repository has a very in-depth description of the project, along with some more images and an animation of the visuals being created.
-  
+    <br/>
+  <br/>
   If you would like to see a video on how the program operates, please see <a href="https://youtu.be/glKszGwu_r4">this link</a>.
-  
-  
+     <br/>
+  <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59589283/159179053-a2b3c372-59cf-4b74-a7a1-80bab38556e4.jpg" />
 </p>
@@ -78,7 +82,7 @@ The following are short descriptions of projects I have worked on. If you would 
 --
 
 <details><summary>
-  Full Parser 
+  <h3>Full Parser</h3>
   </summary>
   <h2>Full Parser - Solo</h2>
   <h3>- Code -</h3>
@@ -97,10 +101,11 @@ The following are short descriptions of projects I have worked on. If you would 
   
   <h3>- Brief Description -</h3>
   This parser was created for my Concepts in Programming Langauges course. The program runs a lexical and syntactical analysis on a mock lanaguge called Three Point. If the input program passes all tests, then the code can be re-printed either in Scheme or Prolog syntax. This was a difficult project because I had no exposure to Golang prior to beginning coding, so I had to learn how to build a full parser while also learning Golang.
-  
-  
+     <br/>
+  <br/>  
   Below is the grammar used for Three Point. 
-  
+     <br/>
+  <br/>
   
 ```
 START      --> STMT_LIST
@@ -124,7 +129,7 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 --
 
 <details><summary>
-  Huffman Tree Encoding 
+  <h3>Huffman Tree Encoding</h3>
   </summary>
 <h2>Huffman Tree Encoding - Solo</h2>
   <h3>- Code -</h3>
@@ -143,9 +148,11 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   
   <h3>- Brief Description -</h3>
   This program was created as a final for my Data Structures II course. Given an input text document, the program will create a huffman tree based on how often each character in the document is used. Each character will be assigned a unique combination of 0's and 1's, and then replaced in the original document to create an encoded document. 
-  
+     <br/>
+  <br/>
   The following is an example of what the huffman encoding will look like. The "CR" character is representative of a newline character.
-  
+     <br/>
+  <br/>
   ```
 {key:   , code: 11}
 {key:  a, code: 010}
@@ -176,7 +183,7 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 --
 
 <details><summary>
-  Library Website  
+  <h3>Library Website</h3>
   </summary>
 <h2>Library Website - Solo</h2>
   <h3>- Code -</h3>
@@ -198,11 +205,11 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   
   <h3>- Brief Description -</h3>
   This project was the final for my Netcentric Computing course. This web application is a mock library, allowing a user to add, remove, and edit information on books and their corresponding authors. This was my first step into working with web applications, and creating my own API from scratch to handle database interactions. The back end is kept private for security concerns, but listed in this repository is the code for the front end.
-  
-  
+     <br/>
+  <br/>  
   Below is a screenshot of what the book list looks like on the website. Feel free to check out the repository for more screenshots and information.
-  
-  
+     <br/>
+  <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59589283/141358313-f4656be5-7c8e-48cf-a85a-4854fa141420.png" />
 </p>
@@ -211,7 +218,7 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 --
 
 <details><summary>
-  Hunt the Wumpus  
+  <h3>Hunt the Wumpus</h3>
   </summary>
 <h2>Hunt the Wumpus - Team</h2>
   <h3>- Code -</h3>
@@ -230,12 +237,12 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   
   <h3>- Brief Description -</h3>
   This project was created with a team of 5 to enter a Microsoft <a href="https://en.wikipedia.org/wiki/Hunt_the_Wumpus">Hunt the Wumpus</a> competition. We were tasked with making our own rendition of the game Hunt the Wumpus, and then having it judged by a panel of industry professionals on Microsoft's campus. I worked primarily with creating the GUI, although I did assist with debugging some of the other portions of our code. 
-  
-  
-  This was the first major coding project that I took part of, and was a primary reason why I wanted to continue to learn about Computer Science in college. Below is a screenshot of the Home Screen of our version of the game.
-  
-  
+     <br/>
+  <br/>  
+  This was the first major coding project that I took part of, and was a primary reason why I wanted to continue to learn about Computer Science in college. The following picture is of our Kanban Board after having completed our project. This was also a fantastic introduction to that style of development, which was very helpful in organizing our tasks.
+   <br/>
+  <br/>  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59589283/220018927-f61f496c-653b-40f6-9b7e-4a3d1181b401.png" />
+  <img src="https://user-images.githubusercontent.com/59589283/220028004-23ff50e9-c8e3-444a-8857-40b96f895853.jpg" />
 </p>
 </details>
