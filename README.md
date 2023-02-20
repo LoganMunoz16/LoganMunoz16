@@ -170,11 +170,7 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 {key:  f, code: 00111010}
 {key:  z, code: 00111011}
 ```
-  
-  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59589283/159179053-a2b3c372-59cf-4b74-a7a1-80bab38556e4.jpg" />
-</p>
+
 </details>
 
 --
@@ -182,9 +178,33 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 <details><summary>
   Library Website  
   </summary>
+<h2>Library Website - Solo</h2>
+  <h3>- Code -</h3>
+  <a href="https://github.com/LoganMunoz16/library-database-front-end">Repository pinned below</a>
+  
+  <h3>- Timeline -</h3>
+  April 2021 - June 2021
+  
+  
+  <h3>- Technologies -</h3>
+  <ul>
+    <li>Javascript</li>
+    <li>Bootstrap</li>
+    <li>Express</li> 
+    <li>Mongoose</li>
+    <li>node.js</li>
+  </ul>
+  
+  
+  <h3>- Brief Description -</h3>
+  This project was the final for my Netcentric Computing course. This web application is a mock library, allowing a user to add, remove, and edit information on books and their corresponding authors. This was my first step into working with web applications, and creating my own API from scratch to handle database interactions. The back end is kept private for security concerns, but listed in this repository is the code for the front end.
+  
+  
+  Below is a screenshot of what the book list looks like on the website. Feel free to check out the repository for more screenshots and information.
+  
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59589283/218954868-3651fa1e-6de9-4277-afc2-910d65ea7438.png" />
+  <img src="https://user-images.githubusercontent.com/59589283/141358313-f4656be5-7c8e-48cf-a85a-4854fa141420.png" />
 </p>
 </details>
 
