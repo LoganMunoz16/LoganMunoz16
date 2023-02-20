@@ -213,8 +213,29 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
 <details><summary>
   Hunt the Wumpus  
   </summary>
+<h2>Hunt the Wumpus - Team</h2>
+  <h3>- Code -</h3>
+  <a href="https://github.com/JEElsner/HuntTheWumpus">Repository pinned below</a>
+  
+  <h3>- Timeline -</h3>
+  March 2019 - May 2019
+  
+  
+  <h3>- Technologies -</h3>
+  <ul>
+    <li>Java</li>
+    <li>Basic GUI Principles</li>
+  </ul>
+  
+  
+  <h3>- Brief Description -</h3>
+  This project was created with a team of 5 to enter a Microsoft <a href="https://en.wikipedia.org/wiki/Hunt_the_Wumpus">Hunt the Wumpus</a> competition. We were tasked with making our own rendition of the game Hunt the Wumpus, and then having it judged by a panel of industry professionals on Microsoft's campus. I worked primarily with creating the GUI, although I did assist with debugging some of the other portions of our code. 
+  
+  
+  This was the first major coding project that I took part of, and was a primary reason why I wanted to continue to learn about Computer Science in college. Below is a screenshot of the Home Screen of our version of the game.
+  
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59589283/218954868-3651fa1e-6de9-4277-afc2-910d65ea7438.png" />
+  <img src="https://user-images.githubusercontent.com/59589283/220018927-f61f496c-653b-40f6-9b7e-4a3d1181b401.png" />
 </p>
 </details>
