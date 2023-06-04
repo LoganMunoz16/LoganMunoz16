@@ -4,7 +4,9 @@ I'm a undergraduate student at Seattle Pacific University (although I disagree w
 
 I have a passion for problem solving and love learning new things no matter the subject matter. I am currently working on my senior project, Envision, and am looking forward to returning to F5 Inc. after graduation as a Software Engineer I. 
 
-Feel free to check out the repositories below to see some projects I have worked on, or use the following link to view my LinkedIn and learn a bit more about me. If you wish to get in contact with me you can use the email in my bio. I hope you have a great day!
+Feel free to check out the repositories below to see some projects I have worked on, see a pdf of my generalized resume below, or use the following link to view my LinkedIn and learn a bit more about me. If you wish to get in contact with me you can use the email in my bio. I hope you have a great day!
+
+[Munoz, Logan - Resume - General.pdf](https://github.com/LoganMunoz16/LoganMunoz16/files/11644821/Munoz.Logan.-.Resume.-.General.pdf)
 
 LinkedIn: https://www.linkedin.com/in/logan-munoz/
 
