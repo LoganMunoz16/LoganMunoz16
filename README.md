@@ -58,11 +58,11 @@ The following are short descriptions of projects I have worked on. If you would 
   The MVP for this product is now complete, but it may still be developed by future students and potentially implemented at Seattle Pacific University. As such, we have decided to keep the codebase private until we can confirm that making it public will not lead to any security issues. That being said, the following is a word document containing our team's documentation of the product. This gives a full view into how Envision was made, and the different technologies used to make it.
     <br/>
   <br/>
-  [Product Documentation - Public - Envision v1.pdf](https://github.com/LoganMunoz16/LoganMunoz16/files/11644843/Product.Documentation.-.Public.-.Envision.v1.pdf)
+  <a href="https://github.com/LoganMunoz16/LoganMunoz16/files/11644843/Product.Documentation.-.Public.-.Envision.v1.pdf">Product Documentation - Public - Envision v1.pdf</a>
 <br/>
   <br/>
 <p align="center">
-  <img width="406" alt="Submit Page" src="https://github.com/LoganMunoz16/LoganMunoz16/assets/59589283/1b823d92-21bf-4767-b78c-8a0768c33bb9">
+  <img width="800" alt="Submit Page" src="https://github.com/LoganMunoz16/LoganMunoz16/assets/59589283/1b823d92-21bf-4767-b78c-8a0768c33bb9">
 
 </p>
 </details>
