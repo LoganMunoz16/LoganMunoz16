@@ -18,8 +18,11 @@ The following are short descriptions of projects I have worked on. If you would 
   <h3>Envision</h3>
   </summary>
   <h2>Envision - Team</h2>
+  <h3>- Role -</h3>
+  Backend Developer
+  
   <h3>- Code -</h3>
-  This project is still in development. The codebase will be linked upon completion of the MVP by May 2023.
+  See below
   
   <h3>- Timeline -</h3>
   September 2022 - May 2023
@@ -32,6 +35,16 @@ The following are short descriptions of projects I have worked on. If you would 
     <li>API Fundamentals</li>
     <li>Image Database Storage</li>
     <li>Raspberry Pi</li>
+    <li>Google Cloud App Engine</li>
+  </ul>
+  
+  <h3>- Tools -</h3>
+  <ul>
+    <li>Jira</li>
+    <li>Microsoft Teams</li>
+    <li>Figma</li>
+    <li>Postman</li>
+    <li>MongoDB</li>
   </ul>
   
   
@@ -42,11 +55,15 @@ The following are short descriptions of projects I have worked on. If you would 
   I am working on a team of 5 for this project, and am handing most of the backend API operations. This has been a tremendous learning experience to discover how to work with a team in a series of sprints to facilitate the development of a full-scale project.
     <br/>
   <br/>
-  Since the project is still in its early phases of development, the codebase is remaining private for the time being. However, this will be made public by May 2023 when the MVP is complete. As a sneak-peek, below is a screenshot of our initial login screen, without much UI design.
+  The MVP for this product is now complete, but it may still be developed by future students and potentially implemented at Seattle Pacific University. As such, we have decided to keep the codebase private until we can confirm that making it public will not lead to any security issues. That being said, the following is a word document containing our team's documentation of the product. This gives a full view into how Envision was made, and the different technologies used to make it.
     <br/>
   <br/>
+  [Product Documentation - Public - Envision v1.pdf](https://github.com/LoganMunoz16/LoganMunoz16/files/11644843/Product.Documentation.-.Public.-.Envision.v1.pdf)
+<br/>
+  <br/>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59589283/220208222-36ac45e1-2d69-4119-ae21-0be104a8c7b4.png" />
+  <img width="406" alt="Submit Page" src="https://github.com/LoganMunoz16/LoganMunoz16/assets/59589283/1b823d92-21bf-4767-b78c-8a0768c33bb9">
+
 </p>
 </details>
 
