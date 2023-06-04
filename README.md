@@ -55,7 +55,7 @@ The following are short descriptions of projects I have worked on. If you would 
   I am working on a team of 5 for this project, and am handing most of the backend API operations. This has been a tremendous learning experience to discover how to work with a team in a series of sprints to facilitate the development of a full-scale project.
     <br/>
   <br/>
-  The MVP for this product is now complete, but it may still be developed by future students and potentially implemented at Seattle Pacific University. As such, we have decided to keep the codebase private until we can confirm that making it public will not lead to any security issues. That being said, the following is a word document containing our team's documentation of the product. This gives a full view into how Envision was made, and the different technologies used to make it.
+  The MVP for this product is now complete, but it may still be developed by future students and potentially implemented at Seattle Pacific University. As such, we have decided to keep the codebase private until we can confirm that making it public will not lead to any security risks. That being said, the following is a word document containing our team's documentation of the product. This gives a full view into how Envision was made, and the different technologies used to make it without releasing the codebase publicly.
     <br/>
   <br/>
   <a href="https://github.com/LoganMunoz16/LoganMunoz16/files/11644843/Product.Documentation.-.Public.-.Envision.v1.pdf">Product Documentation - Public - Envision v1.pdf</a>
