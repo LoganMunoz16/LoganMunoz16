@@ -27,6 +27,9 @@ The following are short descriptions of projects I have worked on. If you would 
   <h3>- Timeline -</h3>
   September 2022 - May 2023
   
+  <h3>- Course -</h3>
+  CSC 4151, CSC 4152, CSC 4898
+  
   
   <h3>- Technologies -</h3>
   <ul>
@@ -110,6 +113,9 @@ The following are short descriptions of projects I have worked on. If you would 
   <h3>- Timeline -</h3>
   February 2022 - March 2022
   
+  <h3>- Course -</h3>
+  CSC 3430
+  
   
   <h3>- Technologies -</h3>
   <ul>
@@ -143,6 +149,9 @@ The following are short descriptions of projects I have worked on. If you would 
   
   <h3>- Timeline -</h3>
   October 2021 - November 2021
+  
+  <h3>- Course -</h3>
+  CSC 3310
   
   
   <h3>- Technologies -</h3>
@@ -188,6 +197,9 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   
   <h3>- Timeline -</h3>
   April 2020 - June 2020
+  
+  <32>- Course -</h3>
+  CSC 2431
   
   
   <h3>- Technologies -</h3>
@@ -241,6 +253,9 @@ DIGIT      --> 0 | 1 | 2 | 3 | 4 | 5 | 6 | ... | 9
   
   <h3>- Timeline -</h3>
   April 2021 - June 2021
+  
+  <h3>- Course -</h3>
+  CSC 3221
   
   
   <h3>- Technologies -</h3>
